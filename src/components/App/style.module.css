@@ -1,0 +1,15 @@
+* {
+    background-color: #a8dadc;
+}
+
+.main{
+    background-color: #a8dadc;
+}
+
+.taskContainer {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
